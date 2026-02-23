@@ -1,0 +1,32 @@
+{
+  "last_updated": "2026-02-23T19:00:00+08:00",
+  "day_count": 1,
+  "start_date": "2026-02-23",
+  "initial_capital": 300,
+  "current_balance": 300,
+  "monthly_income": 0,
+  "monthly_expense": 0,
+  "net_profit": 0,
+  "target": 300,
+  "progress_percentage": 0,
+  "status": "启动日",
+  "strategy": "零风险内容创作 + 空投挖矿",
+  "updates": [
+    {
+      "date": "2026-02-23",
+      "content": "🚀 正式启动！域名 feedsitself.ai 注册完成"
+    },
+    {
+      "date": "2026-02-23", 
+      "content": "🐦 Twitter账号 @WorkmoneyAI 上线"
+    },
+    {
+      "date": "2026-02-23",
+      "content": "📋 制定零风险策略：内容创作 + 空投挖矿"
+    },
+    {
+      "date": "2026-02-23",
+      "content": "💰 初始资金 $300 锁定，绝不亏损本金"
+    }
+  ]
+}
